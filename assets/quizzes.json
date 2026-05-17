@@ -1,388 +1,236 @@
 [
-    {
-        "name": "Quiz aléatoire",
-        "description": "Préparez-vous à être surpris par ce quiz 100% aléatoire !",
-        "isRandom": true,
-        "picture": ""
-    },
-    {
-        "name": "Quiz Animaux Marins",
-        "isRandom": false,
-        "picture": "baleine.jpg",
-        "description": "Sauras-tu distinguer le chant des géants et les cliquetis des prédateurs ?",
-        "questions": [
-            {
-                "correctAnswer": "Baleine a bosse",
-                "wrongAnswers": [
-                    "Baleine bleue",
-                    "Baleine franche",
-                    "Baleine Du Groenland"
-                ]
-            },
-            {
-                "correctAnswer": "Cachalot",
-                "wrongAnswers": [
-                    "Marsouins",
-                    "Globicephales"
-                ]
-            },
-            {
-                "correctAnswer": "Orques 1",
-                "wrongAnswers": [
-                    "Baleine a bosse",
-                    "Dauphins et crevettes",
-                    "Cachalots"
-                ]
-            },
-            {
-                "correctAnswer": "Poissons Grogneurs",
-                "wrongAnswers": [
-                    "Langouste",
-                    "Baleines"
-                ]
-            },
-            {
-                "correctAnswer": "Tursiops Marineland",
-                "wrongAnswers": [
-                    "Globicephales",
-                    "Marsouins",
-                    "Pseudorca"
-                ]
-            },
-            {
-                "correctAnswer": "Cachalots",
-                "wrongAnswers": [
-                    "Cachalot",
-                    "Marsouins"
-                ]
-            },
-            {
-                "correctAnswer": "Baleine Du Groenland",
-                "wrongAnswers": [
-                    "Baleine franche",
-                    "Baleine a bosse"
-                ]
-            },
-            {
-                "correctAnswer": "Globicephales",
-                "wrongAnswers": [
-                    "Pseudorca",
-                    "Orques 2",
-                    "Marsouins"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quiz Navires et Bâtiments",
-        "isRandom": false,
-        "picture": "Analystes.png",
-        "description": "Identifiez les signatures sonores des moteurs et des hélices.",
-        "questions": [
-            {
-                "correctAnswer": "Porte-conteneurs",
-                "wrongAnswers": [
-                    "Petrolier",
-                    "Vraquier",
-                    "Tanker"
-                ]
-            },
-            {
-                "correctAnswer": "Chalutier",
-                "wrongAnswers": [
-                    "Car ferry",
-                    "Zodiac"
-                ]
-            },
-            {
-                "correctAnswer": "Car ferry",
-                "wrongAnswers": [
-                    "Porte-conteneurs",
-                    "Chalutier",
-                    "Zodiac"
-                ]
-            },
-            {
-                "correctAnswer": "Petrolier",
-                "wrongAnswers": [
-                    "Tanker",
-                    "Vraquier"
-                ]
-            },
-            {
-                "correctAnswer": "Vraquier",
-                "wrongAnswers": [
-                    "Petrolier",
-                    "Car ferry"
-                ]
-            },
-            {
-                "correctAnswer": "Tanker",
-                "wrongAnswers": [
-                    "Porte-conteneurs",
-                    "Vraquier",
-                    "Petrolier"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quiz Phénomènes Naturels",
-        "isRandom": false,
-        "picture": "Analystes.png",
-        "description": "Le bruit de la Terre et des éléments sous la surface.",
-        "questions": [
-            {
-                "correctAnswer": "Craquement de glace",
-                "wrongAnswers": [
-                    "Craquement iceberg",
-                    "Pluie"
-                ]
-            },
-            {
-                "correctAnswer": "Pluie",
-                "wrongAnswers": [
-                    "Pluie et orage",
-                    "Avalanche par seisme"
-                ]
-            },
-            {
-                "correctAnswer": "Eruption volcanique sous-marine",
-                "wrongAnswers": [
-                    "Avalanche par seisme",
-                    "Craquement iceberg",
-                    "Pluie et orage"
-                ]
-            },
-            {
-                "correctAnswer": "Avalanche par seisme",
-                "wrongAnswers": [
-                    "Eruption volcanique sous-marine",
-                    "Craquement de glace"
-                ]
-            },
-            {
-                "correctAnswer": "Craquement iceberg",
-                "wrongAnswers": [
-                    "Craquement de glace",
-                    "Avalanche par seisme",
-                    "Pluie"
-                ]
-            },
-            {
-                "correctAnswer": "Pluie et orage",
-                "wrongAnswers": [
-                    "Pluie",
-                    "Eruption volcanique sous-marine"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quiz Famille (Tout public)",
-        "isRandom": false,
-        "picture": "Analystes.png",
-        "description": "Un mélange simple pour découvrir les sons de l'océan.",
-        "questions": [
-            {
-                "correctAnswer": "Baleines",
-                "wrongAnswers": [
-                    "Pluie",
-                    "Zodiac"
-                ]
-            },
-            {
-                "correctAnswer": "Dauphins et crevettes",
-                "wrongAnswers": [
-                    "Baleines",
-                    "Car ferry"
-                ]
-            },
-            {
-                "correctAnswer": "Passage aeronef",
-                "wrongAnswers": [
-                    "Zodiac",
-                    "Baleine a bosse",
-                    "Pluie"
-                ]
-            },
-            {
-                "correctAnswer": "Langouste",
-                "wrongAnswers": [
-                    "Poissons Grogneurs",
-                    "Dauphins et crevettes"
-                ]
-            },
-            {
-                "correctAnswer": "Pluie",
-                "wrongAnswers": [
-                    "Craquement iceberg",
-                    "Baleines"
-                ]
-            },
-            {
-                "correctAnswer": "Car ferry",
-                "wrongAnswers": [
-                    "Baleines",
-                    "Zodiac"
-                ]
-            },
-            {
-                "correctAnswer": "Poissons Grogneurs",
-                "wrongAnswers": [
-                    "Baleines",
-                    "Dauphins et crevettes",
-                    "Pluie"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quiz Marine Militaire",
-        "isRandom": false,
-        "picture": "Analystes.png",
-        "description": "Tactique et technologie : détectez les menaces silencieuses.",
-        "questions": [
-            {
-                "correctAnswer": "Sous-marin",
-                "wrongAnswers": [
-                    "Sous-marin en surface",
-                    "Escorteur en transit"
-                ]
-            },
-            {
-                "correctAnswer": "Sonar FM",
-                "wrongAnswers": [
-                    "Fregate et emission sonar",
-                    "Lancement torpille"
-                ]
-            },
-            {
-                "correctAnswer": "Escorteur en transit",
-                "wrongAnswers": [
-                    "Sous-marin",
-                    "Gros batiment de guerre",
-                    "Fregate"
-                ]
-            },
-            {
-                "correctAnswer": "Fregate et emission sonar",
-                "wrongAnswers": [
-                    "Sonar FM",
-                    "Escorteur en transit"
-                ]
-            },
-            {
-                "correctAnswer": "Sous-marin immersion periscope",
-                "wrongAnswers": [
-                    "Sous-marin en surface",
-                    "Sous marin variation vitesse"
-                ]
-            },
-            {
-                "correctAnswer": "Lancement explosion torpille",
-                "wrongAnswers": [
-                    "Sonar FM",
-                    "Explosion"
-                ]
-            },
-            {
-                "correctAnswer": "Gros batiment de guerre",
-                "wrongAnswers": [
-                    "Escorteur en transit",
-                    "Fregate",
-                    "Sous-marin en surface"
-                ]
-            },
-            {
-                "correctAnswer": "Sous-marin en surface",
-                "wrongAnswers": [
-                    "Sous-marin",
-                    "Zodiac"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Quiz Expert (Mélange total)",
-        "isRandom": false,
-        "picture": "Analystes.png",
-        "description": "Le défi ultime : aucune distinction de catégorie !",
-        "questions": [
-            {
-                "correctAnswer": "Pseudorca",
-                "wrongAnswers": [
-                    "Globicephales",
-                    "Orques 2",
-                    "Marsouins"
-                ]
-            },
-            {
-                "correctAnswer": "Sonar FM",
-                "wrongAnswers": [
-                    "Fregate et emission sonar",
-                    "Chants de baleine"
-                ]
-            },
-            {
-                "correctAnswer": "Vraquier",
-                "wrongAnswers": [
-                    "Tanker",
-                    "Petrolier"
-                ]
-            },
-            {
-                "correctAnswer": "Baleine Du Groenland",
-                "wrongAnswers": [
-                    "Baleine franche",
-                    "Chants de baleine"
-                ]
-            },
-            {
-                "correctAnswer": "Sous-marin immersion periscope",
-                "wrongAnswers": [
-                    "Sous-marin en surface",
-                    "Zodiac",
-                    "Passage aeronef"
-                ]
-            },
-            {
-                "correctAnswer": "Crevettes et dauphins",
-                "wrongAnswers": [
-                    "Poissons Grogneurs",
-                    "Langouste",
-                    "Pluie"
-                ]
-            },
-            {
-                "correctAnswer": "Avalanche par seisme",
-                "wrongAnswers": [
-                    "Craquement iceberg",
-                    "Eruption volcanique sous-marine"
-                ]
-            },
-            {
-                "correctAnswer": "Batiment scientifique et dauphins",
-                "wrongAnswers": [
-                    "Fregate et emission sonar",
-                    "Dauphins et crevettes"
-                ]
-            },
-            {
-                "correctAnswer": "Globicephales",
-                "wrongAnswers": [
-                    "Pseudorca",
-                    "Marsouins"
-                ]
-            },
-            {
-                "correctAnswer": "Car ferry",
-                "wrongAnswers": [
-                    "Chalutier",
-                    "Vraquier",
-                    "Tanker"
-                ]
-            }
-        ]
-    }
+  {
+    "name": "Quiz aléatoire",
+    "description": "Préparez-vous à être surpris par ce quiz 100% aléatoire !",
+    "isRandom": true,
+    "picture": "Operateurs_sonar.png"
+  },
+  {
+    "name": "Quiz Animaux Marins",
+    "isRandom": false,
+    "picture": "baleine.jpg",
+    "description": "Saurez-vous distinguer le chant des géants et les cliquetis des prédateurs ?",
+    "questions": [
+      {
+        "correctAnswer": "Baleine à bosse",
+        "wrongAnswers": ["Baleine bleue", "Baleine franche", "Baleine Du Groenland"]
+      },
+      {
+        "correctAnswer": "Cachalot",
+        "wrongAnswers": ["Marsouins", "Globicephales"]
+      },
+      {
+        "correctAnswer": "Orques",
+        "wrongAnswers": ["Baleine à bosse", "Crevettes et dauphins", "Cachalots"]
+      },
+      {
+        "correctAnswer": "Poissons Grogneurs",
+        "wrongAnswers": ["Langouste", "Baleines"]
+      },
+      {
+        "correctAnswer": "Tursiops",
+        "wrongAnswers": ["Globicephales", "Marsouins", "Pseudorca"]
+      },
+      {
+        "correctAnswer": "Cachalots",
+        "wrongAnswers": ["Cachalot", "Marsouins"]
+      },
+      {
+        "correctAnswer": "Baleine Du Groenland",
+        "wrongAnswers": ["Baleine franche", "Baleine à bosse"]
+      },
+      {
+        "correctAnswer": "Globicephales",
+        "wrongAnswers": ["Pseudorca", "Orques (variante 2)", "Marsouins"]
+      }
+    ]
+  },
+  {
+    "name": "Quiz Navires et Bâtiments",
+    "isRandom": false,
+    "picture": "ship.jpg",
+    "description": "Identifiez les signatures sonores des moteurs et des hélices.",
+    "questions": [
+      {
+        "correctAnswer": "Porte-conteneurs",
+        "wrongAnswers": ["Petrolier", "Vraquier", "Tanker"]
+      },
+      {
+        "correctAnswer": "Chalutier",
+        "wrongAnswers": ["Car ferry", "Zodiac"]
+      },
+      {
+        "correctAnswer": "Car ferry",
+        "wrongAnswers": ["Porte-conteneurs", "Chalutier", "Zodiac"]
+      },
+      {
+        "correctAnswer": "Petrolier",
+        "wrongAnswers": ["Tanker", "Vraquier"]
+      },
+      {
+        "correctAnswer": "Vraquier",
+        "wrongAnswers": ["Petrolier", "Car ferry"]
+      },
+      {
+        "correctAnswer": "Tanker",
+        "wrongAnswers": ["Porte-conteneurs", "Vraquier", "Petrolier"]
+      }
+    ]
+  },
+  {
+    "name": "Quiz Phénomènes Naturels",
+    "isRandom": false,
+    "picture": "iceberg.jpg",
+    "description": "Le bruit de la Terre et des éléments sous la surface.",
+    "questions": [
+      {
+        "correctAnswer": "Craquement de glace",
+        "wrongAnswers": ["Craquement iceberg", "Pluie"]
+      },
+      {
+        "correctAnswer": "Pluie",
+        "wrongAnswers": ["Pluie et orage", "Avalanche par séisme"]
+      },
+      {
+        "correctAnswer": "Eruption volcanique sous-marine",
+        "wrongAnswers": ["Avalanche par séisme", "Craquement iceberg", "Pluie et orage"]
+      },
+      {
+        "correctAnswer": "Avalanche par séisme",
+        "wrongAnswers": ["Eruption volcanique sous-marine", "Craquement de glace"]
+      },
+      {
+        "correctAnswer": "Craquement iceberg",
+        "wrongAnswers": ["Craquement de glace", "Avalanche par séisme", "Pluie"]
+      },
+      {
+        "correctAnswer": "Pluie et orage",
+        "wrongAnswers": ["Pluie", "Eruption volcanique sous-marine"]
+      }
+    ]
+  },
+  {
+    "name": "Quiz Famille (Tout public)",
+    "isRandom": false,
+    "picture": "family.jpg",
+    "description": "Un mélange simple pour découvrir les sons de l'océan à tout âge.",
+    "questions": [
+      {
+        "correctAnswer": "Baleines",
+        "wrongAnswers": ["Pluie", "Zodiac"]
+      },
+      {
+        "correctAnswer": "Dauphins et crevettes",
+        "wrongAnswers": ["Baleines", "Car ferry"]
+      },
+      {
+        "correctAnswer": "Passage aeronef",
+        "wrongAnswers": ["Zodiac", "Baleine à bosse", "Pluie"]
+      },
+      {
+        "correctAnswer": "Langouste",
+        "wrongAnswers": ["Poissons Grogneurs", "Dauphins et crevettes"]
+      },
+      {
+        "correctAnswer": "Pluie",
+        "wrongAnswers": ["Craquement iceberg", "Baleines"]
+      },
+      {
+        "correctAnswer": "Car ferry",
+        "wrongAnswers": ["Baleines", "Zodiac"]
+      },
+      {
+        "correctAnswer": "Poissons Grogneurs",
+        "wrongAnswers": ["Baleines", "Dauphins et crevettes", "Pluie"]
+      }
+    ]
+  },
+  {
+    "name": "Quiz Marine Militaire",
+    "isRandom": false,
+    "picture": "submarine.jpg",
+    "description": "Tactique et technologie : détectez les menaces silencieuses.",
+    "questions": [
+      {
+        "correctAnswer": "Sous-marin",
+        "wrongAnswers": ["Sous-marin en surface", "Escorteur"]
+      },
+      {
+        "correctAnswer": "Sonar FM",
+        "wrongAnswers": ["Fregate", "Lancement torpille"]
+      },
+      {
+        "correctAnswer": "Escorteur",
+        "wrongAnswers": ["Sous-marin", "Gros bâtiment de guerre", "Fregate"]
+      },
+      {
+        "correctAnswer": "Fregate",
+        "wrongAnswers": ["Sonar FM", "Escorteur"]
+      },
+      {
+        "correctAnswer": "Sous-marin (immersion périscopique)",
+        "wrongAnswers": ["Sous-marin en surface", "Sous-marin (variation de vitesse)"]
+      },
+      {
+        "correctAnswer": "Lancement torpille",
+        "wrongAnswers": ["Sonar FM", "Explosion"]
+      },
+      {
+        "correctAnswer": "Gros bâtiment de guerre",
+        "wrongAnswers": ["Escorteur", "Fregate", "Sous-marin en surface"]
+      },
+      {
+        "correctAnswer": "Sous-marin en surface",
+        "wrongAnswers": ["Sous-marin", "Zodiac"]
+      }
+    ]
+  },
+  {
+    "name": "Quiz Expert (Mélange total)",
+    "isRandom": false,
+    "picture": "sonar.jpg",
+    "description": "Le défi ultime : aucune distinction de catégorie !",
+    "questions": [
+      {
+        "correctAnswer": "Pseudorca",
+        "wrongAnswers": ["Globicephales", "Orques (variante 2)", "Marsouins"]
+      },
+      {
+        "correctAnswer": "Sonar FM",
+        "wrongAnswers": ["Fregate", "Chants de baleine"]
+      },
+      {
+        "correctAnswer": "Vraquier",
+        "wrongAnswers": ["Tanker", "Petrolier"]
+      },
+      {
+        "correctAnswer": "Baleine Du Groenland",
+        "wrongAnswers": ["Baleine franche", "Chants de baleine"]
+      },
+      {
+        "correctAnswer": "Sous-marin (immersion périscopique)",
+        "wrongAnswers": ["Sous-marin en surface", "Zodiac", "Passage aeronef"]
+      },
+      {
+        "correctAnswer": "Crevettes et dauphins",
+        "wrongAnswers": ["Poissons Grogneurs", "Langouste", "Pluie"]
+      },
+      {
+        "correctAnswer": "Avalanche par séisme",
+        "wrongAnswers": ["Craquement iceberg", "Eruption volcanique sous-marine"]
+      },
+      {
+        "correctAnswer": "Bâtiment scientifique et dauphins",
+        "wrongAnswers": ["Fregate", "Dauphins et crevettes"]
+      },
+      {
+        "correctAnswer": "Globicephales",
+        "wrongAnswers": ["Pseudorca", "Marsouins"]
+      },
+      {
+        "correctAnswer": "Car ferry",
+        "wrongAnswers": ["Chalutier", "Vraquier", "Tanker"]
+      }
+    ]
+  }
 ]

@@ -88,8 +88,8 @@
         "description": "Source hydrothermale éjectant de l'eau brûlante et des minéraux sur les fonds marins."
     },
     {
-        "name": "Avalanche par seisme",
-        "description": "Glissement de sédiments provoqué par une secousse tellurique.",
+        "name": "Avalanche par séisme",
+        "description": "Glissement de sédiments provoqué par un tremblement de terre.",
         "clip": "Avalanche_par_seisme.mp3"
     },
     {
@@ -98,7 +98,7 @@
         "clip": "Baleines.mp3"
     },
     {
-        "name": "Baleine a bosse",
+        "name": "Baleine à bosse",
         "description": "Cétacé célèbre pour ses sauts et ses chants complexes.",
         "clip": "Baleine_a_bosse.mp3"
     },
@@ -113,7 +113,7 @@
         "clip": "Baleine_franche.mp3"
     },
     {
-        "name": "Batiment scientifique et dauphins",
+        "name": "Bâtiment scientifique et dauphins",
         "description": "Navire de recherche croisant un groupe de dauphins.",
         "clip": "Batiment_scientifique_et_dauphins.mp3"
     },
@@ -256,5 +256,70 @@
         "name": "Vraquier",
         "description": "Navire transportant des marchandises solides sans emballage.",
         "clip": "Vraquier.mp3"
+    },
+    {
+        "name": "Chalutier (variante 2)",
+        "description": "Bateau de pêche industrielle en opération (enregistrement alternatif).",
+        "clip": "Chalutier_2.mp3"
+    },
+    {
+        "name": "Chalutier (variante 3)",
+        "description": "Bruit de moteur et de treuils d'un chalutier en mer.",
+        "clip": "Chalutier_3.mp3"
+    },
+    {
+        "name": "Escorteur (action ASM)",
+        "description": "Navire de guerre en opération de lutte anti-sous-marine.",
+        "clip": "Escorteur_action_Anti-sous-marine.mp3"
+    },
+    {
+        "name": "Escorteur (vibrations)",
+        "description": "Signature sonore d'un escorteur à une allure générant des vibrations structurelles.",
+        "clip": "Escorteur_allure_vibratoire.mp3"
+    },
+    {
+        "name": "Gros bâtiment de guerre",
+        "description": "Unité navale de fort tonnage type cuirassé ou porte-avions.",
+        "clip": "Gros_batiment_de_guerre.mp3"
+    },
+    {
+        "name": "Langoustes (groupe)",
+        "description": "Bruit collectif de stridulation produit par un regroupement de langoustes.",
+        "clip": "Langoustes.mp3"
+    },
+    {
+        "name": "Navire de guerre",
+        "description": "Bâtiment de surface militaire en navigation.",
+        "clip": "Navire_de_guerre.mp3"
+    },
+    {
+        "name": "Orques (variante 2)",
+        "description": "Communication et écholocalisation d'un second groupe d'épaulards.",
+        "clip": "Orques_2.mp3"
+    },
+    {
+        "name": "Sous-marin (immersion périscopique)",
+        "description": "Sous-marin naviguant à faible profondeur sous la surface.",
+        "clip": "Sous-marin_immersion_periscope.mp3"
+    },
+    {
+        "name": "Sous-marin (variation de vitesse)",
+        "description": "Changement de régime moteur et de cavitation d'un sous-marin.",
+        "clip": "Sous_marin_variation_vitesse.mp3"
+    },
+{
+        "name": "Sous-marin en surface",
+        "description": "Bruit caractéristique des moteurs diesels et du sillage d'un submersible naviguant hors de l'eau.",
+        "clip": "Sous-marin_en_surface.mp3"
+    },
+    {
+        "name": "Pluie et orage",
+        "description": "Ambiance sonore combinant l'impact des précipitations sur l'eau et les grondements sourds du tonnerre.",
+        "clip": "Pluie_et_orage.mp3"
+    },
+    {
+        "name": "Dauphins et crevettes",
+        "description": "Paysage acoustique mêlant les cliquetis des cétacés au crépitement permanent des crevettes pistolets.",
+        "clip": "Dauphins_et_crevettes.mp3"
     }
 ]
